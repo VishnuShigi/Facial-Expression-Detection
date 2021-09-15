@@ -6,7 +6,6 @@ In this project we can see the effects of 2 different optimizers during the trai
 This repository also contains a code for the UI to implement the model.
 
 ### Note:
-The haarcascade_frontalface_default.xml file is required to run the modle as that file is used to identify the face and send the face to the model for expression detection. 
-
+The haarcascade_frontalface_default.xml file is required to run the modle as that file is used by the model to identify the face.
 # Authors 
 Vishnu S S, Aniruddh T S
